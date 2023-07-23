@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "netlify-cli": "^15.9.1"
+  },
+  "scripts": {
+    "netlify": "netlify"
+  }
+}
